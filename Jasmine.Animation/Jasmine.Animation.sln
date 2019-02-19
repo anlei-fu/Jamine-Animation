@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jasmine.Animation", "Jasmine.Animation\Jasmine.Animation.csproj", "{BB366CCA-1D95-4987-8704-D9D4E89CDCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimateTest", "AimationTest\AimateTest.csproj", "{CA187D4B-D0D8-4243-8603-C12CB5E9FC72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB366CCA-1D95-4987-8704-D9D4E89CDCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB366CCA-1D95-4987-8704-D9D4E89CDCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB366CCA-1D95-4987-8704-D9D4E89CDCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB366CCA-1D95-4987-8704-D9D4E89CDCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA187D4B-D0D8-4243-8603-C12CB5E9FC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA187D4B-D0D8-4243-8603-C12CB5E9FC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA187D4B-D0D8-4243-8603-C12CB5E9FC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA187D4B-D0D8-4243-8603-C12CB5E9FC72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070F3F4F-5BA8-46B2-995C-701A95E5E2D7}
+	EndGlobalSection
+EndGlobal
