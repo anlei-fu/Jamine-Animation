@@ -4,3 +4,9 @@ C:\Users\fuanlei\source\repos\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasm
 C:\Users\fuanlei\source\repos\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.csproj.CoreCompileInputs.cache
 C:\Users\fuanlei\source\repos\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.dll
 C:\Users\fuanlei\source\repos\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.pdb
+C:\Users\fuanlei\Desktop\Jamine-Animation\Jasmine.Animation\Jasmine.Animation\bin\Debug\Jasmine.Animation.dll
+C:\Users\fuanlei\Desktop\Jamine-Animation\Jasmine.Animation\Jasmine.Animation\bin\Debug\Jasmine.Animation.pdb
+C:\Users\fuanlei\Desktop\Jamine-Animation\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.csprojAssemblyReference.cache
+C:\Users\fuanlei\Desktop\Jamine-Animation\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.csproj.CoreCompileInputs.cache
+C:\Users\fuanlei\Desktop\Jamine-Animation\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.dll
+C:\Users\fuanlei\Desktop\Jamine-Animation\Jasmine.Animation\Jasmine.Animation\obj\Debug\Jasmine.Animation.pdb

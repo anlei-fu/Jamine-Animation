@@ -35,6 +35,7 @@ namespace AimateTest
             var size= new SizeHandler(new Size(10, 400), new Size(300, 250), x => label1.Size = x);
             var color = new ColorHandler(Color.Brown, Color.Blue, x => label1.BackColor = x);
             var location = new PositionHandler(new Point(0, 200), new Point(1200, 200), x => label1.Location = x);
+
             animator.Animate(1000, 100,new AnimateHandlerGroup(new IAnimateHandler[] {color,location,size }),null,AnimateFunctionType.CubicEaseInOut);
 
         }

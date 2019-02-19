@@ -42,7 +42,6 @@ namespace Jasmine.Animation
             _timer.Enabled = true;
 
         }
-
         public void Dispose()
         {
             if (!_disposed)
