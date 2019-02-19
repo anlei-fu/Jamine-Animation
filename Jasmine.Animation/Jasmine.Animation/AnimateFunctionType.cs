@@ -11,7 +11,7 @@
         QuadEaseOut,
         QuadEaseIn,
         QuadEaseInOut,
-        QuadEaseOutIn,    //新增40种动画效果  
+        QuadEaseOutIn,  
         ExpoEaseOut,
         ExpoEaseIn,
         ExpoEaseInOut,

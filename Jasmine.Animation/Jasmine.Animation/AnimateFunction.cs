@@ -4,10 +4,8 @@ namespace Jasmine.Animation
 {
     public  class AnimateFunction
     {
-
-
         /// <summary>
-        /// 
+        /// use a special function to get value of float
         /// </summary>
         /// <param name="type"></param>
         /// <param name="time"> the rate of duration</param>
@@ -52,7 +50,6 @@ namespace Jasmine.Animation
                     return CubicEaseOutIn(time, 0, 1, 1);
                 case AnimateFunctionType.ElasticEaseIn:
                     return ElasticEaseIn(time, 0, 1, 1);
-
                 case AnimateFunctionType.ElasticEaseInOut:
                     return ElasticEaseInOut(time, 0, 1, 1);
                 case AnimateFunctionType.ElasticEaseOut:
@@ -99,7 +96,6 @@ namespace Jasmine.Animation
                     return SineEaseOut(time, 0, 1, 1);
                 case AnimateFunctionType.SineEaseOutIn:
                     return SineEaseOutIn(time, 0, 1, 1);
-
                 default:
                     return time;
             }

@@ -9,15 +9,14 @@ namespace Jasmine.Animation
         public SizeHandler(Size start, Size end, Action<Size> onAnimate) : base(start, end, onAnimate)
         {
         }
-
         protected override Size caculate(float t)
         {
             var w = Start.Width + (int)((End.Width - Start.Width) * t);
-            w = w < 0 ? 0 : w;
             var h = Start.Height + (int)((End.Height - Start.Height) * t);
+            w = w < 0 ? 0 : w;
             h = h < 0 ? 0 : h;
 
-            return new Size(w,h );
+            return new Size(w, h);
         }
     }
 }
